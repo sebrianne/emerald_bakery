@@ -42,12 +42,7 @@ const FilterDiv = (props) =>  {
                                         aria-label="Expand"
                                         aria-controls="additional-actions1-content"
                                         id="additional-actions1-header">
-                                        <FormControlLabel
-                                            aria-label="Acknowledge"
-                                            onClick={(event) => event.stopPropagation()}
-                                            onFocus={(event) => event.stopPropagation()}
-                                            control={<Checkbox />}
-                                            label="Glacé" />
+                                        <Typography>Glacé</Typography> 
                                     </AccordionSummary>
                                     <AccordionDetails>
                                         <Typography color="textSecondary">
@@ -81,12 +76,7 @@ const FilterDiv = (props) =>  {
                                         aria-label="Expand"
                                         aria-controls="additional-actions2-content"
                                         id="additional-actions2-header">
-                                        <FormControlLabel
-                                            aria-label="Acknowledge"
-                                            onClick={(event) => event.stopPropagation()}
-                                            onFocus={(event) => event.stopPropagation()}
-                                            control={<Checkbox />}
-                                            label="Salé"/>
+                                        <Typography>Salé</Typography> 
                                     </AccordionSummary>
                                     <AccordionDetails>
                                         <Typography color="textSecondary">
@@ -113,12 +103,7 @@ const FilterDiv = (props) =>  {
                                         aria-label="Expand"
                                         aria-controls="additional-actions3-content"
                                         id="additional-actions3-header">
-                                        <FormControlLabel
-                                            aria-label="Acknowledge"
-                                            onClick={(event) => event.stopPropagation()}
-                                            onFocus={(event) => event.stopPropagation()}
-                                            control={<Checkbox />}
-                                            label="Sec"/>
+                                        <Typography>Sec</Typography> 
                                     </AccordionSummary>
                                     <AccordionDetails>
                                         <Typography color="textSecondary">

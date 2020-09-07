@@ -15,7 +15,8 @@ body {
 }
 
 .food-img {
-    height: 20vw;
+    width: 100%;
+    height: 80%;
 }
 
 .item-title {

@@ -1,0 +1,173 @@
+{
+"glace":{
+    "Mini Eclair":{
+        "price":"$5.75",
+        "category":"Doughnuts and Pastries",
+        "nutrition": "vegetarian, nut-free",
+        "url": "https://drive.google.com/uc?export=view&id=1ULMzygfxEPzrbviHVBg46Mpew1ab1p3w"
+    },
+    "Profiteroles": {
+        "price":"$4.00",
+        "category":"Doughnuts and Pastries",
+        "nutrition": "vegetarian, nut-free",
+        "url": "https://drive.google.com/uc?export=view&id=1YJLO1jjoW01OWUuUdsXCUBW4UHKIxUWl"
+    },
+    "Warm Glazed Doughnut Holes": {
+        "price":"$4.00",
+        "category":"Doughnuts and Pastries",
+        "nutrition": "vegetarian, nut-free",
+        "url": "https://drive.google.com/uc?export=view&id=1TH7O4CgAHziVyBojgsooN95yt60T0aC2"
+    },
+    "Mini Pineapple Upside Down Cake": {
+        "price":"$8.00",
+        "category":"Cakes and Cupcakes",
+        "nutrition": "vegetarian, nut-free",
+        "url": "https://drive.google.com/uc?export=view&id=1WQbxqEjTwIFDISoTMuZZeAZ-G5PzLgYx"
+    },
+    "Tres Leches Cupcake": {
+        "price":"$8.00",
+        "category":"Cakes and Cupcakes",
+        "nutrition": "vegetarian, nut-free",
+        "url":"https://drive.google.com/uc?export=view&id=1ICSoKTYDp7mtq5GgcxlAPMx6ilhdy1je"
+    },
+    "Tiramisu": {
+        "price":"$8.00",
+        "category":"Cakes and Cupcakes",
+        "nutrition": "vegetarian, nut-free",
+        "url":"https://drive.google.com/uc?export=view&id=13o7Xwp233ClTnt-lDJmgHJAx1zY48l0_"
+    },
+    "Fruit Tart": {
+        "price":"$8.00",
+        "category":"Tarts",
+        "nutrition": "vegetarian, nut-free",
+        "url": "https://drive.google.com/uc?export=view&id=1vPnrHCCDrb95rgQVkk3PCuwtf9fEhn1T"
+    }
+},
+
+"sale":{
+    "Cucumber Cream Cheese Tea Sandwich": {
+        "price": "$5.00",
+        "category": "Tea Sandwiches",
+        "nutrition": "vegetarian, nut-free, low sugar",
+        "url": "https://drive.google.com/uc?export=view&id=1MdydwknQc0xn8DruOvqBTSXGoyoQz__6"
+    },
+    "Smoked Salmon Tea Sandwich": {
+        "price": "$5.00",
+        "category": "Tea Sandwiches",
+        "nutrition": "nut-free, low sugar",
+        "url": "https://drive.google.com/uc?export=view&id=1UoJQhrY4R7CM4dS55oqR3Q48jr6INm1R"
+    },
+    "Egg Salad Tea Sandwich": {
+        "price": "$5.00",
+        "category": "Tea Sandwiches",
+        "nutrition": "vegetarian, nut-free, low sugar, dairy-free",
+        "url": "https://drive.google.com/uc?export=view&id=1KgWMLuRx50qdxAUwhlG_8QRh03XkLUG0"
+    },
+    "Almond Curry Chicken Tea Sandwich": {
+        "price": "$5.00",
+        "category": "Tea Sandwiches",
+        "nutrition": "low sugar, dairy-free",
+        "url": "https://drive.google.com/uc?export=view&id=1OWilb_GhkfBS2Dj9Mt1Nwwf7EKc_QszA"
+    },
+    "Hot Caprese Tea Sandwich": {
+        "price": "$5.00",
+        "category": "Tea Sandwiches",
+        "nutrition": "vegetarian, nut-free, low sugar",
+        "url": "https://drive.google.com/uc?export=view&id=1qwXngCCHuTH0OUv8GmGMiOIYBfVfUO-Q"
+    },
+    "French Toast Tea Sandwich": {
+        "price": "$5.00",
+        "category": "Tea Sandwiches",
+        "nutrition": "vegetarian, nut-free",
+        "url": "https://drive.google.com/uc?export=view&id=1UgiqsCOJO_7xRCTqRhD8G8SE7rka-LSw"
+    },
+    "Mini Potato Leek Bolanis": {
+        "price": "$7.00",
+        "category": "Quiches and Savory Specialties",
+        "nutrition": "vegan, vegetarian, nut-free, low sugar, dairy-free",
+        "url": "https://drive.google.com/uc?export=view&id=1Lko96-6TFP-NIUXoPdrp_gcRwhmEy3cl"
+    },
+    "Leek, Mushroom, and Goat Cheese Quiche": {
+        "price": "$8.00",
+        "category": "Quiches and Savory Specialties",
+        "nutrition": "vegetarian, nut-free, low sugar",
+        "url": "https://drive.google.com/uc?export=view&id=110hpIgIABySZjv8YNIlqeug_OQNhg2k2"
+    },
+    "Turkey Bacon, Bell Pepper, and Asiago Quiche": {
+        "price": "$8.00",
+        "category": "Tea Sandwiches",
+        "nutrition": "nut-free, low sugar",
+        "url": "https://drive.google.com/uc?export=view&id=110hpIgIABySZjv8YNIlqeug_OQNhg2k2"
+    }
+},
+
+"sec":{
+    "Cranberry Orange Scone": {
+        "price": "$5.00",
+        "category": "Scones",
+        "nutrition": "vegetarian, nut-free, low sugar",
+        "url": "https://drive.google.com/uc?export=view&id=1ZuW8C226ZRxS7U9MrgrD9jUq_N1TBKPx"
+    },
+    "Blueberry Scone": {
+        "price": "$5.00",
+        "category": "Scones",
+        "nutrition": "vegetarian, nut-free, low sugar",
+        "url": "https://drive.google.com/uc?export=view&id=1G3ZrvG8BfTZ3NtUF0lFlQnSjY61mL3lH"
+    },
+    "Lemon Poppy Scone": {
+        "price": "$5.00",
+        "category": "Scones",
+        "nutrition": "vegetarian, nut-free, low sugar",
+        "url": "https://drive.google.com/uc?export=view&id=1q20OkQEs-45-2QhJPtfph-MXlqSNFNJG"
+    },
+    "Very Strawberry Scone": {
+        "price": "$5.00",
+        "category": "Scones",
+        "nutrition": "vegetarian, nut-free, low sugar",
+        "url": "https://drive.google.com/uc?export=view&id=1q20OkQEs-45-2QhJPtfph-MXlqSNFNJG"
+    },
+    "Maple Scone": {
+        "price": "$5.00",
+        "category": "Scones",
+        "nutrition": "vegetarian, nut-free",
+        "url": "https://drive.google.com/uc?export=view&id=1q20OkQEs-45-2QhJPtfph-MXlqSNFNJG"
+    },
+    "Chocolate Chip Scone": {
+        "price": "$5.00",
+        "category": "Scones",
+        "nutrition": "vegetarian, nut-free",
+        "url": "https://drive.google.com/uc?export=view&id=13XfKBnfu8TMHwkrJMur5yPwqPhFq_fC-"
+    },
+    "Chocolate Chip Cookie": {
+        "price": "$5.00",
+        "category": "Cookies",
+        "nutrition": "vegetarian, nut-free",
+        "url": "https://drive.google.com/uc?export=view&id=1zp-DucDhTi5YWjb7_Zdb8F2YGokFP0NI"
+    },
+    "Devonshire Cream": {
+        "price": "$1.00",
+        "category": "Scone Spreads",
+        "nutrition": "vegetarian, nut-free, low sugar, gluten-free",
+        "url": "https://drive.google.com/uc?export=view&id=1SmZ9MvXTqwwS-PKODG3wNDeUHKyYrZdO"
+    },
+    "Lemon Curd": {
+        "price": "$1.00",
+        "category": "Scone Spreads",
+        "nutrition": "vegetarian, nut-free, gluten-free, dairy-free",
+        "url": "https://drive.google.com/uc?export=view&id=1tu7KDx2cJXDNub40HobIstkfjSRf6AeL"
+    },
+    "Lemon Devonshire Cream": {
+        "price": "$1.00",
+        "category": "Scone Spreads",
+        "nutrition": "vegetarian, nut-free, gluten-free",
+        "url": "https://drive.google.com/uc?export=view&id=1SmZ9MvXTqwwS-PKODG3wNDeUHKyYrZdO"
+    },
+    "Strawberry Devonshire Cream": {
+        "price": "$1.00",
+        "category": "Scone Spreads",
+        "nutrition": "vegetarian, nut-free, gluten-free",
+        "url": "https://drive.google.com/uc?export=view&id=1SmZ9MvXTqwwS-PKODG3wNDeUHKyYrZdO"
+    }
+}
+
+}
