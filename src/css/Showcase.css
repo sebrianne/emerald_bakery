@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.rowC {
+    display:flex;
+    flex-direction:row;
+    width:100vw;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.left-div {
+    float: left;
+    width: 25vw;
+    height: 100vh;
+    background-color: white;
+}
+
+.right-div {
+    float: right;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    width: 75vw;
+    height: 100%;
+    background-color: white;
+    margin: 3%;
+}

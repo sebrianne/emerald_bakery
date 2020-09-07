@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.shelf-space {
+    background-color: white;
+    text-align: center;
+    width: 20vw;
+    height: 30vw;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin: 2%;
+}
+
+.food-img {
+    height: 20vw;
+}
+
+.item-title {
+    font-size: 22px;
+}
+
+.item-price {
+    font-size: 18px;
+}
