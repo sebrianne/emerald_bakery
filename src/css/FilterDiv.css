@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.widget {
+    background-color:  rgb(46 155 83);
+    height: 37vw;
+    border-radius: 2%;
+    text-align: right;
+}
+
+.choice {
+    font-size: 30px;
+}

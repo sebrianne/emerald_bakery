@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.rowC {
+    display:flex;
+    flex-direction:row;
+    width:100vw;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.left-div {
+    float: left;
+    width: 25vw;
+    height: 100vw;
+    background-color: white;
+    padding: 2%;
+}
+
+.right-div {
+    float: right;
+    width: 75vw;
+    height: 100vw;
+    background-color: white;
+}

@@ -1,1 +1,16 @@
-@import url('bootstrap/dist/css/bootstrap.min.css');
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.color-nav {
+    background-color: rgb(139 216 139);
+}
+
+.nav-link {
+    color: white;
+    font-size: 25px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.nav-link:hover {
+    color: rgb(43 91 43);
+}
