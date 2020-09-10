@@ -2,6 +2,8 @@
 
 body {
   font-family: 'Quicksand', sans-serif;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 
 .rowC {
@@ -15,14 +17,17 @@ body {
 .left-div {
     float: left;
     width: 25vw;
-    height: 100vw;
+    height: 100vh;
     background-color: white;
-    padding: 2%;
 }
 
 .right-div {
     float: right;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
     width: 75vw;
-    height: 100vw;
+    height: 100%;
     background-color: white;
+    margin: 3%;
 }

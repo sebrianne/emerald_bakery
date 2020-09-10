@@ -2,15 +2,36 @@
 
 body {
     font-family: 'Quicksand', sans-serif;
+    padding: 2%;
+    padding: 2%;
 }
 
 .widget {
-    background-color:  rgb(46 155 83);
-    height: 37vw;
+    height: 50%;
     border-radius: 2%;
-    text-align: right;
+}
+
+.small-text {
+    font-size: 12px;
+    vertical-align: left;
+    display: inline-flex;
 }
 
 .choice {
     font-size: 30px;
 }
+
+.reset-button {
+    border-radius: 2%;
+    font-size: 12px;
+    background-color: white;
+    color: rgb(43 91 43);
+    vertical-align: right;
+    display: inline-flex;
+    float: right;
+}
+
+.category-heading {
+    font-size: 12px;
+}
+

@@ -17,9 +17,6 @@ const EmeraldNav = (props) =>  {
                     <Nav.Link className="ml-auto"/>
                         <Nav.Link className = "nav-link" href="/">HOME</Nav.Link>
                         <Nav.Link className="dropbtn"  href="/bakery">BAKERY</Nav.Link>
-                        <Nav.Link  href="/tearoom">TEAROOM</Nav.Link>
-                        <Nav.Link  href="/delivery">DELIVERY</Nav.Link>
-                        <Nav.Link  href="/about">ABOUT</Nav.Link>
             </Navbar.Collapse>
         </Navbar>
         </div>
